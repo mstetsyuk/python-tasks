@@ -1,6 +1,6 @@
 ## Proxy
 
-`aiohttp` `web` `asyncio` `http proxy` `URL`
+`aiohttp`
 
 ### Условие
 
