@@ -59,8 +59,3 @@ Response: 307
 `ed1De1` здесь - это сгенерированное сервисом число.
 
 При дальнейшем запросе на url `/go/ed1De1` сервис должен перенаправить пользователя на сайт `https://www.python.org/dev/peps/pep-0008` 
-
-
----
-
-Ackn. Fedor Korotkiy; Go course YSDA
